@@ -2,7 +2,8 @@
 Create a timeline chart from data on a table
 
 From a csv file which looks like this
-```type,style,text,date,color
+```
+type,style,text,date,color
 center,->,COVID-19 considered a very low health risk,2020-01-22,blue
 left,->,First case in Germany (Munich),2020-01-27,blue
 left,->,Masks sold out,2020-01-29,blue
