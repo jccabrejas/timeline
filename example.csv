@@ -1,0 +1,48 @@
+type,style,text,date,color
+
+center,->,COVID-19 considered a very low health risk,2020-01-22,blue
+left,->,First case in Germany (Munich),2020-01-27,blue
+left,->,Masks sold out,2020-01-29,blue
+
+left,->,First deaths reported,2020-03-08,blue
+left,->,Message from Angela Merkel,2020-03-18,blue
+left,->,Partial lockdowns,2020-03-22,blue
+
+left,->,First Corona lockdown is over,2020-05-04,blue
+
+center,->,Corona-Warn-App,2020-06-16,blue
+
+left,->,Querdender mob attempts to enter the Reichstag,2020-08-29,blue
+left,->,Lockdown Light measures announced,2020-11-02,blue
+left,->,Vaccination rollout,2021-01-01,blue
+left,->,Restrictions are stepped up,2021-01-06,blue
+
+left,->,6% of all people in Germany fully vaccinated,2021-04-15,blue
+left,->,45% of all people in Germany fully vaccinated,2021-07-15,blue
+left,->,66% of all people in Germany fully vaccinated,2021-10-20,blue
+
+left,->,First case in Canary Islands,2020-01-31,black
+left,->,First death,2020-02-13,black
+left,->,Constitutional state of alarm and Lockdown ,2020-03-13,black
+left,->,950 dead on a single day,2020-04-03,black
+
+center,->,All non-essential workers ordered to remain at home for the next 14 days,2020-03-30,black
+
+left,->,7% of all people in Spain fully vaccinated,2021-04-15,black
+left,->,50% of all people in Spain fully vaccinated,2021-07-15,black
+left,->,80% of all people in Spain fully vaccinated,2021-10-20,black
+
+left,->,Cum. Deaths in Spain: 28000,2020-05-10,black
+left,->,Cum. Deaths in Germany: 8000,2020-05-10,blue
+
+left,->,Cum. Deaths in Spain: 33400,2020-10-14,black
+left,->,Cum. Deaths in Germany: 9700,2020-10-14,blue
+
+left,->,Cum. Deaths in Spain: 64747,2021-02-12,black
+left,->,Cum. Deaths in Germany: 64771,2021-02-12,blue
+
+left,->,Cum. Deaths in Spain: 81000,2021-07-05,black
+left,->,Cum. Deaths in Germany: 91000,2021-07-05,blue
+
+right,->,Cum. Deaths in Spain: 87000,2021-10-22,black
+right,->,Cum. Deaths in Germany: 95000,2021-10-22,blue
