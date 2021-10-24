@@ -16,3 +16,5 @@ create a file which looks like this
 There is a config file so some parameters can be changed easily.
 
 At some point I wanted to create a timeline chart quickly, started looking into https://jakevdp.github.io/PythonDataScienceHandbook/04.09-text-and-annotation.html and eventually kept changing things, so I may want to come back to this at some point
+
+For the example I took some data from Wikipedia and from https://ourworldindata.org/covid-vaccinations?country=ESP~DEU
